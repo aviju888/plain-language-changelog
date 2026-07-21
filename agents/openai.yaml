@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain Language Changelog"
+  short_description: "Explain changes in clear changelog form"
+  default_prompt: "Use $plain-language-changelog to explain these implementation changes for a non-technical reader."
